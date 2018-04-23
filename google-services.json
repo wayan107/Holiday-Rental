@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "648488372687",
+    "firebase_url": "https://app-push-notification-201607.firebaseio.com",
+    "project_id": "app-push-notification-201607",
+    "storage_bucket": "app-push-notification-201607.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648488372687:android:5c6d8301a2f58171",
+        "android_client_info": {
+          "package_name": "com.rajavila.holidayapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "648488372687-2s4oupt5k90knm3ahm00os6hcm3dg76h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWYNKtRfrXy4jTCeJvRvkJBeE7pMq05Kk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
